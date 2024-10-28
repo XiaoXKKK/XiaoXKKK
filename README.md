@@ -2,7 +2,7 @@
 <!-- ## 日拱一卒，功不唐捐 -->
 <!-- [![GitHub Streak](https://streak-stats.demolab.com/?user=XiaoXKKK)](https://git.io/streak-stats) -->
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-12%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-36%20mins-blue)
 
 📊 **This Week I Spent My Time On** 
 
@@ -23,5 +23,5 @@ Mac                      15 mins             ██████████░�
 ```
 
 
- Last Updated on 27/10/2024 20:17:07 UTC
+ Last Updated on 28/10/2024 20:17:07 UTC
 <!--END_SECTION:waka-->
