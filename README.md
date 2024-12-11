@@ -2,7 +2,7 @@
 <!-- ## 日拱一卒，功不唐捐 -->
 <!-- [![GitHub Streak](https://streak-stats.demolab.com/?user=XiaoXKKK)](https://git.io/streak-stats) -->
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-103%20hrs%2056%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-109%20hrs%2011%20mins-blue)
 
 📊 **This Week I Spent My Time On** 
 
@@ -27,5 +27,5 @@ Windows                  1 hr 50 mins        ███░░░░░░░░�
 ```
 
 
- Last Updated on 10/12/2024 20:18:28 UTC
+ Last Updated on 11/12/2024 20:18:44 UTC
 <!--END_SECTION:waka-->
