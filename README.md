@@ -2,6 +2,8 @@
 <!-- ## 日拱一卒，功不唐捐 -->
 <!-- [![GitHub Streak](https://streak-stats.demolab.com/?user=XiaoXKKK)](https://git.io/streak-stats) -->
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-868%20hrs%2055%20mins-blue)
+
 📊 **This Week I Spent My Time On** 
 
 ```text
@@ -19,5 +21,5 @@ Windows                  18 mins             █████████░░�
 ```
 
 
- Last Updated on 16/11/2025 20:04:59 UTC
+ Last Updated on 17/11/2025 20:05:23 UTC
 <!--END_SECTION:waka-->
