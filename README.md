@@ -2,27 +2,26 @@
 <!-- ## 日拱一卒，功不唐捐 -->
 <!-- [![GitHub Streak](https://streak-stats.demolab.com/?user=XiaoXKKK)](https://git.io/streak-stats) -->
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-998%20hrs%2038%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-998%20hrs%2057%20mins-blue?style=flat)
 
 📊 **This Week I Spent My Time On** 
 
 ```text
 💬 Programming Languages: 
-Markdown                 1 hr 40 mins        ███████████████░░░░░░░░░░   59.96 % 
-C++                      25 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.41 % 
-CMake                    13 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.75 % 
-Git Config               12 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.65 % 
-Bash                     7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.44 % 
+C++                      23 mins             █████████████████░░░░░░░░   67.02 % 
+Markdown                 10 mins             ████████░░░░░░░░░░░░░░░░░   31.13 % 
+Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.74 % 
+C                        0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.11 % 
 
 🔥 Editors: 
-VS Code                  2 hrs 29 mins       ██████████████████████░░░   89.04 % 
-Obsidian                 18 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.96 % 
+VS Code                  25 mins             ██████████████████░░░░░░░   73.95 % 
+Obsidian                 9 mins              ███████░░░░░░░░░░░░░░░░░░   26.05 % 
 
 💻 Operating System: 
-Windows                  2 hrs 5 mins        ███████████████████░░░░░░   74.63 % 
-Mac                      42 mins             ██████░░░░░░░░░░░░░░░░░░░   25.37 % 
+Mac                      28 mins             ████████████████████░░░░░   80.17 % 
+Windows                  6 mins              █████░░░░░░░░░░░░░░░░░░░░   19.83 % 
 ```
 
 
- Last Updated on 03/03/2026 20:08:58 UTC
+ Last Updated on 04/03/2026 20:10:11 UTC
 <!--END_SECTION:waka-->
