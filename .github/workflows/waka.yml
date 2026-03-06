@@ -9,6 +9,44 @@ jobs:
     name: Update Readme with Metrics
     runs-on: ubuntu-latest
     steps:
+      - uses: actions/checkout@v4
+        with:
+          token: ${{ secrets.GH_TOKEN }}
+          fetch-depth: 30
+
+      - name: Save last known-good WakaTime stats
+        run: |
+          python3 - << 'EOF'
+          import subprocess, re
+
+          def get_readme(ref):
+              try:
+                  return subprocess.check_output(
+                      ['git', 'show', f'{ref}:README.md'],
+                      stderr=subprocess.DEVNULL
+                  ).decode('utf-8')
+              except (subprocess.CalledProcessError, UnicodeDecodeError):
+                  return None
+
+          for i in range(29):
+              readme = get_readme(f'HEAD~{i}')
+              if readme is None:
+                  print(f'Reached end of available history at HEAD~{i}.')
+                  break
+              if 'This Week I Spent My Time On' in readme:
+                  match = re.search(
+                      r'<!--START_SECTION:waka-->[\s\S]+?<!--END_SECTION:waka-->',
+                      readme
+                  )
+                  if match:
+                      with open('/tmp/waka_backup.txt', 'w', encoding='utf-8') as f:
+                          f.write(match.group(0))
+                      print(f'Saved last known-good WakaTime stats from HEAD~{i}.')
+                      break
+          else:
+              print('No commit with WakaTime stats found in the last 29 commits.')
+          EOF
+
       - uses: anmol098/waka-readme-stats@master
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
@@ -25,3 +63,62 @@ jobs:
           SHOW_LANGUAGE_PER_REPO : False
           SHOW_SHORT_INFO : False
           SHOW_LOC_CHART : False
+
+      - name: Restore WakaTime stats if temporarily unavailable
+        run: |
+          git pull origin ${{ github.ref_name }}
+          python3 - << 'EOF'
+          import re, os, sys
+
+          with open('README.md', 'r', encoding='utf-8') as f:
+              current = f.read()
+
+          if 'This Week I Spent My Time On' in current:
+              print('WakaTime stats are present. No restore needed.')
+              sys.exit(0)
+
+          backup_path = '/tmp/waka_backup.txt'
+          if not os.path.exists(backup_path):
+              print('No backup available. Cannot restore.')
+              sys.exit(0)
+
+          with open(backup_path, 'r', encoding='utf-8') as f:
+              backup = f.read()
+
+          if 'This Week I Spent My Time On' not in backup:
+              print('Backup also has no stats. Cannot restore.')
+              sys.exit(0)
+
+          print('WakaTime data temporarily unavailable. Restoring last known-good stats...')
+
+          curr_badge = re.search(r'!\[Code Time\]\(http[^)]+\)', current)
+          curr_ts = re.search(
+              r'Last Updated on \d{2}/\d{2}/\d{4} \d{2}:\d{2}:\d{2} UTC', current
+          )
+
+          restored = backup
+          if curr_badge:
+              restored = re.sub(
+                  r'!\[Code Time\]\(http[^)]+\)', curr_badge.group(0), restored
+              )
+          if curr_ts:
+              restored = re.sub(
+                  r'Last Updated on \d{2}/\d{2}/\d{4} \d{2}:\d{2}:\d{2} UTC',
+                  curr_ts.group(0),
+                  restored
+              )
+
+          new_readme = re.sub(
+              r'<!--START_SECTION:waka-->[\s\S]+?<!--END_SECTION:waka-->',
+              restored,
+              current
+          )
+          with open('README.md', 'w', encoding='utf-8') as f:
+              f.write(new_readme)
+          print('WakaTime stats restored successfully.')
+          EOF
+
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git config user.name "readme-bot"
+          git add README.md
+          git diff --staged --quiet || (git commit -m "Updated with Dev Metrics" && git push origin ${{ github.ref_name }})
