@@ -8,18 +8,17 @@
 
 ```text
 💬 Programming Languages: 
-C++                      4 hrs 1 min         ████████████████████████░   95.76 % 
-Markdown                 9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.89 % 
-Python                   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.32 % 
-C                        0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 % 
+C++                      2 hrs 27 mins       ███████████████████████░░   93.29 % 
+Markdown                 9 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   06.21 % 
+Python                   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.51 % 
 
 🔥 Editors: 
-VS Code                  4 hrs 12 mins       █████████████████████████   100.00 % 
+VS Code                  2 hrs 38 mins       █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Mac                      4 hrs 12 mins       █████████████████████████   100.00 % 
+Mac                      2 hrs 38 mins       █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 14/03/2026 20:06:35 UTC
+ Last Updated on 15/03/2026 20:07:12 UTC
 <!--END_SECTION:waka-->
