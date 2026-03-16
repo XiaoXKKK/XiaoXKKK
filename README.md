@@ -8,17 +8,15 @@
 
 ```text
 💬 Programming Languages: 
-C++                      2 hrs 27 mins       ███████████████████████░░   93.29 % 
-Markdown                 9 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   06.21 % 
-Python                   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.51 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  2 hrs 38 mins       █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Mac                      2 hrs 38 mins       █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 
- Last Updated on 15/03/2026 20:07:12 UTC
+ Last Updated on 16/03/2026 20:12:30 UTC
 <!--END_SECTION:waka-->
