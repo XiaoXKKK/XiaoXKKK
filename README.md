@@ -8,16 +8,16 @@
 
 ```text
 💬 Programming Languages: 
-C++                      1 hr 30 mins        █████████████████████████   99.65 % 
-JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.35 % 
+C++                      1 hr 11 mins        █████████████████████████   99.55 % 
+JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.45 % 
 
 🔥 Editors: 
-VS Code                  1 hr 30 mins        █████████████████████████   100.00 % 
+VS Code                  1 hr 11 mins        █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Mac                      1 hr 30 mins        █████████████████████████   100.00 % 
+Mac                      1 hr 11 mins        █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 06/04/2026 20:14:16 UTC
+ Last Updated on 07/04/2026 20:13:58 UTC
 <!--END_SECTION:waka-->
