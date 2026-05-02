@@ -8,15 +8,21 @@
 
 ```text
 💬 Programming Languages: 
-SSH Config               0 secs              █████████████████████████   100.00 % 
+Python                   42 mins             ███████████████░░░░░░░░░░   61.75 % 
+Other                    10 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.68 % 
+Bash                     10 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.17 % 
+Text                     2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.92 % 
+Markdown                 1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   02.46 % 
 
 🔥 Editors: 
-VS Code                  0 secs              █████████████████████████   100.00 % 
+VS Code                  39 mins             ██████████████░░░░░░░░░░░   57.37 % 
+Unknown Editor           29 mins             ███████████░░░░░░░░░░░░░░   42.63 % 
 
 💻 Operating System: 
-Mac                      0 secs              █████████████████████████   100.00 % 
+Linux                    1 hr 7 mins         █████████████████████████   99.36 % 
+Mac                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.64 % 
 ```
 
 
- Last Updated on 01/05/2026 20:20:07 UTC
+ Last Updated on 02/05/2026 20:13:53 UTC
 <!--END_SECTION:waka-->
