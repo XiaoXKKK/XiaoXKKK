@@ -8,20 +8,20 @@
 
 ```text
 💬 Programming Languages: 
-Python                   1 hr 24 mins        ██████████░░░░░░░░░░░░░░░   40.49 % 
-Markdown                 57 mins             ███████░░░░░░░░░░░░░░░░░░   27.85 % 
-Other                    48 mins             ██████░░░░░░░░░░░░░░░░░░░   23.35 % 
-CSV                      5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.49 % 
-JSON                     5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.44 % 
+Python                   1 hr 13 mins        ██████████░░░░░░░░░░░░░░░   38.29 % 
+Markdown                 57 mins             ████████░░░░░░░░░░░░░░░░░   30.14 % 
+Other                    48 mins             ██████░░░░░░░░░░░░░░░░░░░   25.27 % 
+CSV                      5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.70 % 
+YAML                     4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.44 % 
 
 🔥 Editors: 
-VS Code                  3 hrs 23 mins       ████████████████████████░   97.76 % 
-Unknown Editor           4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.24 % 
+VS Code                  3 hrs 7 mins        ████████████████████████░   97.58 % 
+Unknown Editor           4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.42 % 
 
 💻 Operating System: 
-Linux                    3 hrs 28 mins       █████████████████████████   100.00 % 
+Linux                    3 hrs 12 mins       █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 13/05/2026 20:36:03 UTC
+ Last Updated on 14/05/2026 20:33:01 UTC
 <!--END_SECTION:waka-->
