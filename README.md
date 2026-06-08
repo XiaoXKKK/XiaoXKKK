@@ -2,25 +2,27 @@
 <!-- ## 日拱一卒，功不唐捐 -->
 <!-- [![GitHub Streak](https://streak-stats.demolab.com/?user=XiaoXKKK)](https://git.io/streak-stats) -->
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C089%20hrs%202%20mins-blue?style=flat)
+
 📊 **This Week I Spent My Time On** 
 
 ```text
 💬 Programming Languages: 
-Python                   19 hrs 40 mins      ███████████████░░░░░░░░░░   58.72 % 
-Other                    8 hrs 57 mins       ███████░░░░░░░░░░░░░░░░░░   26.76 % 
-Bash                     1 hr 32 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.61 % 
-Text                     59 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.97 % 
-JSON                     56 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.79 % 
+Python                   21 hrs 2 mins       ███████████████░░░░░░░░░░   60.06 % 
+Other                    9 hrs 13 mins       ███████░░░░░░░░░░░░░░░░░░   26.33 % 
+Bash                     1 hr 32 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.41 % 
+JSON                     1 hr 9 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.29 % 
+Text                     52 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.52 % 
 
 🔥 Editors: 
-VS Code                  33 hrs 21 mins      █████████████████████████   99.56 % 
-Claude Code              8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.44 % 
+VS Code                  34 hrs 53 mins      █████████████████████████   99.58 % 
+Claude Code              8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.42 % 
 
 💻 Operating System: 
-Linux                    33 hrs 13 mins      █████████████████████████   99.19 % 
-Mac                      16 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.81 % 
+Linux                    34 hrs 54 mins      █████████████████████████   99.64 % 
+Mac                      7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.36 % 
 ```
 
 
- Last Updated on 07/06/2026 20:28:58 UTC
+ Last Updated on 08/06/2026 20:54:17 UTC
 <!--END_SECTION:waka-->
