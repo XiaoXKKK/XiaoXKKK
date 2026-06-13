@@ -2,26 +2,26 @@
 <!-- ## 日拱一卒，功不唐捐 -->
 <!-- [![GitHub Streak](https://streak-stats.demolab.com/?user=XiaoXKKK)](https://git.io/streak-stats) -->
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C096%20hrs%2021%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C100%20hrs%2017%20mins-blue?style=flat)
 
 📊 **This Week I Spent My Time On** 
 
 ```text
 💬 Programming Languages: 
-Other                    4 hrs 33 mins       █████████░░░░░░░░░░░░░░░░   37.22 % 
-Python                   3 hrs 41 mins       ████████░░░░░░░░░░░░░░░░░   30.14 % 
-JSON                     1 hr 33 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.75 % 
-CSV                      53 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.27 % 
-YAML                     39 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.35 % 
+Other                    4 hrs 33 mins       █████████░░░░░░░░░░░░░░░░   35.15 % 
+Python                   3 hrs 58 mins       ████████░░░░░░░░░░░░░░░░░   30.65 % 
+JSON                     1 hr 34 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.14 % 
+CSV                      53 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.87 % 
+YAML                     46 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.93 % 
 
 🔥 Editors: 
-VS Code                  10 hrs 26 mins      █████████████████████░░░░   85.25 % 
-Codex CLI                1 hr 48 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.75 % 
+VS Code                  10 hrs 35 mins      ████████████████████░░░░░   81.68 % 
+Codex CLI                2 hrs 22 mins       █████░░░░░░░░░░░░░░░░░░░░   18.32 % 
 
 💻 Operating System: 
-Linux                    12 hrs 14 mins      █████████████████████████   100.00 % 
+Linux                    12 hrs 58 mins      █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 12/06/2026 20:46:32 UTC
+ Last Updated on 13/06/2026 20:30:21 UTC
 <!--END_SECTION:waka-->
