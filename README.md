@@ -2,28 +2,28 @@
 <!-- ## 日拱一卒，功不唐捐 -->
 <!-- [![GitHub Streak](https://streak-stats.demolab.com/?user=XiaoXKKK)](https://git.io/streak-stats) -->
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C152%20hrs%2011%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C156%20hrs%208%20mins-blue?style=flat)
 
 📊 **This Week I Spent My Time On** 
 
 ```text
 💬 Programming Languages: 
-Other                    27 hrs 10 mins      ███████████████░░░░░░░░░░   58.81 % 
-Python                   7 hrs 6 mins        ████░░░░░░░░░░░░░░░░░░░░░   15.37 % 
-JSON                     3 hrs 40 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   07.96 % 
-CSV                      2 hrs 30 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   05.41 % 
-Markdown                 2 hrs 19 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   05.02 % 
+Other                    15 hrs 28 mins      █████████████░░░░░░░░░░░░   50.13 % 
+Python                   6 hrs 15 mins       █████░░░░░░░░░░░░░░░░░░░░   20.30 % 
+JSON                     3 hrs 29 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.31 % 
+Markdown                 2 hrs 13 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   07.20 % 
+YAML                     1 hr 4 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.49 % 
 
 🔥 Editors: 
-VS Code                  41 hrs 18 mins      ██████████████████████░░░   89.38 % 
-Codex CLI                4 hrs 38 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.04 % 
-Claude Code              16 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.58 % 
+VS Code                  29 hrs 33 mins      ████████████████████████░   95.80 % 
+Codex CLI                1 hr 1 min          █░░░░░░░░░░░░░░░░░░░░░░░░   03.33 % 
+Claude Code              16 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.87 % 
 
 💻 Operating System: 
-Linux                    45 hrs 26 mins      █████████████████████████   98.34 % 
-Windows                  46 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.66 % 
+Linux                    30 hrs 5 mins       ████████████████████████░   97.51 % 
+Windows                  46 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.49 % 
 ```
 
 
- Last Updated on 26/06/2026 21:16:11 UTC
+ Last Updated on 27/06/2026 21:00:47 UTC
 <!--END_SECTION:waka-->
