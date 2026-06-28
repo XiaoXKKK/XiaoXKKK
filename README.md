@@ -8,22 +8,21 @@
 
 ```text
 💬 Programming Languages: 
-Other                    15 hrs 28 mins      █████████████░░░░░░░░░░░░   50.13 % 
-Python                   6 hrs 15 mins       █████░░░░░░░░░░░░░░░░░░░░   20.30 % 
-JSON                     3 hrs 29 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.31 % 
-Markdown                 2 hrs 13 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   07.20 % 
-YAML                     1 hr 4 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.49 % 
+Other                    15 hrs 13 mins      ████████████░░░░░░░░░░░░░   47.01 % 
+Python                   7 hrs 27 mins       ██████░░░░░░░░░░░░░░░░░░░   23.02 % 
+JSON                     3 hrs 3 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.44 % 
+Markdown                 2 hrs 55 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.02 % 
+Bash                     1 hr 18 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.03 % 
 
 🔥 Editors: 
-VS Code                  29 hrs 33 mins      ████████████████████████░   95.80 % 
-Codex CLI                1 hr 1 min          █░░░░░░░░░░░░░░░░░░░░░░░░   03.33 % 
-Claude Code              16 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.87 % 
+VS Code                  31 hrs 30 mins      ████████████████████████░   97.22 % 
+Claude Code              33 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.72 % 
+Codex CLI                20 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.06 % 
 
 💻 Operating System: 
-Linux                    30 hrs 5 mins       ████████████████████████░   97.51 % 
-Windows                  46 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.49 % 
+Linux                    32 hrs 24 mins      █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 27/06/2026 21:00:47 UTC
+ Last Updated on 28/06/2026 20:59:29 UTC
 <!--END_SECTION:waka-->
