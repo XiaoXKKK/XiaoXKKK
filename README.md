@@ -2,9 +2,7 @@
 <!-- ## 日拱一卒，功不唐捐 -->
 <!-- [![GitHub Streak](https://streak-stats.demolab.com/?user=XiaoXKKK)](https://git.io/streak-stats) -->
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C336%20hrs-blue?style=flat)
-
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-405%20hrs%2021%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C345%20hrs%2017%20mins-blue?style=flat)
 
 📊 **This Week I Spent My Time On** 
 
@@ -28,30 +26,6 @@ Mac                      4 hrs               ██░░░░░░░░░�
 Windows                  3 hrs 28 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   06.11 % 
 ```
 
-🤖 **AI Coding This Week** 
 
-```text
-⏱ AI Coding Time: 51 hrs 25 mins (90.53%)
-
-✍️ 20,653 lines written by AI, 147 lines written by hand (99.29% AI-written)
-
-🔤 1,415,347,436 Input Tokens, 4,954,000 Output Tokens
-
-💵 $6874.29 Estimated AI Cost This Week
-
-🧠 133 AI Sessions, 605 AI Prompts
-
-GPT                      23,194 lines        █████████████████████████   98.60 % 
-Codex-Cli                324 lines           ░░░░░░░░░░░░░░░░░░░░░░░░░   01.38 % 
-Codex-Vscode             5 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 % 
-
-🔎 AI Coding Insights:
-🤖 AI-Driven — 99.29% of written lines came from AI
-📚 Verbose Prompter — average 4,461 characters per prompt
-🔁 Iterative Prompter — average 5 prompts per session
-🚀 High AI Trust — 3.97% of changed lines were hand-edited
-```
-
-
- Last Updated on 18/08/2026 20:20:14 UTC
+ Last Updated on 19/08/2026 02:22:19 UTC
 <!--END_SECTION:waka-->
