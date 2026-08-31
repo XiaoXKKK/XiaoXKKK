@@ -8,22 +8,22 @@
 
 ```text
 💬 Programming Languages: 
-Markdown                 11 hrs 38 mins      ████████░░░░░░░░░░░░░░░░░   33.23 % 
-Other                    4 hrs 46 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.62 % 
-Python                   4 hrs 18 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.27 % 
-JSON                     3 hrs 6 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.86 % 
-YAML                     2 hrs 48 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.01 % 
+Markdown                 9 hrs 30 mins       █████████░░░░░░░░░░░░░░░░   36.92 % 
+Other                    3 hrs 22 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.12 % 
+Python                   3 hrs 8 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.20 % 
+JSON                     1 hr 58 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.64 % 
+Image (svg)              1 hr 20 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.20 % 
 
 🔥 Editors: 
-VS Code                  34 hrs 16 mins      ████████████████████████░   97.75 % 
-Codex CLI                28 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.36 % 
-Codex Vscode             18 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.88 % 
+VS Code                  24 hrs 41 mins      ████████████████████████░   95.83 % 
+Codex Vscode             35 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.32 % 
+Codex CLI                28 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.85 % 
 
 💻 Operating System: 
-Linux                    34 hrs 37 mins      █████████████████████████   98.75 % 
-Windows                  26 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.25 % 
+Linux                    24 hrs 56 mins      ████████████████████████░   96.83 % 
+Windows                  49 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.17 % 
 ```
 
 
- Last Updated on 30/08/2026 22:23:29 UTC
+ Last Updated on 31/08/2026 23:36:54 UTC
 <!--END_SECTION:waka-->
