@@ -8,23 +8,24 @@
 
 ```text
 💬 Programming Languages: 
-Markdown                 7 hrs 43 mins       ████████████░░░░░░░░░░░░░   46.18 % 
-Other                    2 hrs 25 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.51 % 
-JSON                     1 hr 39 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.89 % 
-Image (svg)              1 hr 11 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.14 % 
-Python                   1 hr 5 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   06.55 % 
+Markdown                 3 hrs 56 mins       ██████████░░░░░░░░░░░░░░░   39.82 % 
+Other                    1 hr 49 mins        █████░░░░░░░░░░░░░░░░░░░░   18.40 % 
+JSON                     1 hr 9 mins         ███░░░░░░░░░░░░░░░░░░░░░░   11.62 % 
+Python                   1 hr 3 mins         ███░░░░░░░░░░░░░░░░░░░░░░   10.73 % 
+Image (svg)              39 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.70 % 
 
 🔥 Editors: 
-VS Code                  15 hrs 30 mins      ███████████████████████░░   92.70 % 
-Codex Vscode             35 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.57 % 
-Codex CLI                26 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.67 % 
-Codex Exec               10 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.06 % 
+VS Code                  9 hrs 6 mins        ███████████████████████░░   91.93 % 
+Codex Vscode             33 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.61 % 
+Codex Exec               10 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.79 % 
+Codex CLI                3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.67 % 
 
 💻 Operating System: 
-Linux                    15 hrs 54 mins      ████████████████████████░   95.11 % 
-Windows                  49 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.89 % 
+Linux                    9 hrs 7 mins        ███████████████████████░░   92.06 % 
+Windows                  37 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.34 % 
+Mac                      9 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.59 % 
 ```
 
 
- Last Updated on 01/09/2026 22:22:16 UTC
+ Last Updated on 02/09/2026 22:21:22 UTC
 <!--END_SECTION:waka-->
