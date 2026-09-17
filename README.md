@@ -2,30 +2,30 @@
 <!-- ## 日拱一卒，功不唐捐 -->
 <!-- [![GitHub Streak](https://streak-stats.demolab.com/?user=XiaoXKKK)](https://git.io/streak-stats) -->
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C445%20hrs%208%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C445%20hrs%2048%20mins-blue?style=flat)
 
 📊 **This Week I Spent My Time On** 
 
 ```text
 💬 Programming Languages: 
-Other                    20 hrs 39 mins      █████████░░░░░░░░░░░░░░░░   34.82 % 
-Python                   19 hrs 44 mins      ████████░░░░░░░░░░░░░░░░░   33.28 % 
-Markdown                 14 hrs 53 mins      ██████░░░░░░░░░░░░░░░░░░░   25.11 % 
-C++                      1 hr 35 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   02.70 % 
-Text                     1 hr 22 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   02.31 % 
+Python                   21 hrs              █████████░░░░░░░░░░░░░░░░   35.38 % 
+Other                    19 hrs 57 mins      ████████░░░░░░░░░░░░░░░░░   33.60 % 
+Markdown                 12 hrs 58 mins      █████░░░░░░░░░░░░░░░░░░░░   21.85 % 
+Text                     2 hrs 18 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   03.88 % 
+C++                      1 hr 34 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   02.66 % 
 
 🔥 Editors: 
-Codex Vscode             41 hrs 58 mins      ██████████████████░░░░░░░   70.78 % 
-VS Code                  12 hrs 23 mins      █████░░░░░░░░░░░░░░░░░░░░   20.89 % 
-Codex Exec               3 hrs 22 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   05.69 % 
-Codex CLI                1 hr 8 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   01.92 % 
+Codex Vscode             41 hrs 13 mins      █████████████████░░░░░░░░   69.43 % 
+VS Code                  14 hrs 29 mins      ██████░░░░░░░░░░░░░░░░░░░   24.41 % 
+Codex Exec               3 hrs 12 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   05.41 % 
 Obsidian                 14 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.40 % 
+Codex CLI                12 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.35 % 
 
 💻 Operating System: 
-Linux                    51 hrs 28 mins      ██████████████████████░░░   86.81 % 
-Mac                      7 hrs 49 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.19 % 
+Linux                    54 hrs 7 mins       ███████████████████████░░   91.16 % 
+Mac                      5 hrs 14 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.84 % 
 ```
 
 
- Last Updated on 16/09/2026 22:38:28 UTC
+ Last Updated on 17/09/2026 22:39:50 UTC
 <!--END_SECTION:waka-->
