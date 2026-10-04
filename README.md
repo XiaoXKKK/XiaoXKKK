@@ -2,30 +2,30 @@
 <!-- ## 日拱一卒，功不唐捐 -->
 <!-- [![GitHub Streak](https://streak-stats.demolab.com/?user=XiaoXKKK)](https://git.io/streak-stats) -->
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C486%20hrs%2012%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C490%20hrs%207%20mins-blue?style=flat)
 
 📊 **This Week I Spent My Time On** 
 
 ```text
 💬 Programming Languages: 
-Python                   8 hrs 39 mins       ██████████░░░░░░░░░░░░░░░   39.01 % 
-Markdown                 4 hrs 32 mins       █████░░░░░░░░░░░░░░░░░░░░   20.46 % 
-Other                    3 hrs 33 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.07 % 
-Bash                     1 hr 57 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.82 % 
-TypeScript               1 hr 23 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.26 % 
+Python                   9 hrs 47 mins       ████████░░░░░░░░░░░░░░░░░   33.47 % 
+Other                    9 hrs 45 mins       ████████░░░░░░░░░░░░░░░░░   33.33 % 
+Markdown                 5 hrs 45 mins       █████░░░░░░░░░░░░░░░░░░░░   19.69 % 
+TypeScript               1 hr 23 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.75 % 
+Text                     34 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.97 % 
 
 🔥 Editors: 
-Codex Vscode             13 hrs 30 mins      ███████████████░░░░░░░░░░   60.90 % 
-VS Code                  5 hrs 28 mins       ██████░░░░░░░░░░░░░░░░░░░   24.72 % 
-Codex Exec               1 hr 56 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.76 % 
-Claude Code              54 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.06 % 
-Codex CLI                20 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.52 % 
+Codex Vscode             20 hrs 5 mins       █████████████████░░░░░░░░   68.67 % 
+VS Code                  5 hrs 53 mins       █████░░░░░░░░░░░░░░░░░░░░   20.12 % 
+Codex Exec               1 hr 56 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.65 % 
+Claude Code              54 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.08 % 
+Codex CLI                25 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.46 % 
 
 💻 Operating System: 
-Mac                      15 hrs 50 mins      ██████████████████░░░░░░░   71.43 % 
-Linux                    6 hrs 20 mins       ███████░░░░░░░░░░░░░░░░░░   28.57 % 
+Mac                      15 hrs 24 mins      █████████████░░░░░░░░░░░░   52.70 % 
+Linux                    13 hrs 50 mins      ████████████░░░░░░░░░░░░░   47.30 % 
 ```
 
 
- Last Updated on 03/10/2026 22:40:41 UTC
+ Last Updated on 04/10/2026 22:44:04 UTC
 <!--END_SECTION:waka-->
