@@ -8,24 +8,24 @@
 
 ```text
 💬 Programming Languages: 
-Other                    8 hrs 31 mins       ████████░░░░░░░░░░░░░░░░░   31.64 % 
-Python                   7 hrs 28 mins       ███████░░░░░░░░░░░░░░░░░░   27.73 % 
-Markdown                 5 hrs 19 mins       █████░░░░░░░░░░░░░░░░░░░░   19.77 % 
-JSON                     2 hrs 49 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.49 % 
-TypeScript               1 hr 16 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.71 % 
+Other                    8 hrs 32 mins       ████████░░░░░░░░░░░░░░░░░   32.72 % 
+Python                   8 hrs 15 mins       ████████░░░░░░░░░░░░░░░░░   31.61 % 
+Markdown                 4 hrs 27 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.09 % 
+JSON                     2 hrs 49 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.84 % 
+Bash                     31 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.99 % 
 
 🔥 Editors: 
-Codex Vscode             18 hrs 21 mins      █████████████████░░░░░░░░   68.13 % 
-VS Code                  5 hrs 18 mins       █████░░░░░░░░░░░░░░░░░░░░   19.70 % 
-Codex Exec               1 hr 56 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.21 % 
-Claude Code              54 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.34 % 
-Codex CLI                25 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.58 % 
+Codex Vscode             19 hrs 49 mins      ███████████████████░░░░░░   75.88 % 
+VS Code                  4 hrs 40 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.92 % 
+Claude Code              54 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.45 % 
+Codex CLI                25 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.63 % 
+Codex Exec               17 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.09 % 
 
 💻 Operating System: 
-Linux                    14 hrs 17 mins      █████████████░░░░░░░░░░░░   53.05 % 
-Mac                      12 hrs 39 mins      ████████████░░░░░░░░░░░░░   46.95 % 
+Linux                    16 hrs 59 mins      ████████████████░░░░░░░░░   65.03 % 
+Mac                      9 hrs 8 mins        █████████░░░░░░░░░░░░░░░░   34.97 % 
 ```
 
 
- Last Updated on 08/10/2026 00:00:29 UTC
+ Last Updated on 09/10/2026 00:08:06 UTC
 <!--END_SECTION:waka-->
