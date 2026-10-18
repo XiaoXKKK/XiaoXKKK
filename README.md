@@ -2,27 +2,27 @@
 <!-- ## 日拱一卒，功不唐捐 -->
 <!-- [![GitHub Streak](https://streak-stats.demolab.com/?user=XiaoXKKK)](https://git.io/streak-stats) -->
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C549%20hrs%205%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C549%20hrs%207%20mins-blue?style=flat)
 
 📊 **This Week I Spent My Time On** 
 
 ```text
 💬 Programming Languages: 
-Python                   8 hrs 4 mins        ██████████░░░░░░░░░░░░░░░   38.15 % 
-Rust                     5 hrs 29 mins       ██████░░░░░░░░░░░░░░░░░░░   25.98 % 
-Other                    2 hrs 16 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.74 % 
-JSON                     2 hrs 2 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.66 % 
-Markdown                 1 hr 44 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.22 % 
+Rust                     5 hrs 29 mins       ███████████░░░░░░░░░░░░░░   43.44 % 
+Python                   2 hrs               ████░░░░░░░░░░░░░░░░░░░░░   15.89 % 
+Markdown                 1 hr 30 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.91 % 
+Other                    1 hr 14 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.80 % 
+JSON                     57 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.60 % 
 
 🔥 Editors: 
-Codex Vscode             16 hrs 44 mins      ████████████████████░░░░░   79.07 % 
-VS Code                  4 hrs 25 mins       █████░░░░░░░░░░░░░░░░░░░░   20.93 % 
+Codex Vscode             8 hrs 14 mins       ████████████████░░░░░░░░░   65.15 % 
+VS Code                  4 hrs 24 mins       █████████░░░░░░░░░░░░░░░░   34.85 % 
 
 💻 Operating System: 
-Linux                    14 hrs 49 mins      ██████████████████░░░░░░░   70.03 % 
-Mac                      6 hrs 20 mins       ███████░░░░░░░░░░░░░░░░░░   29.97 % 
+Mac                      6 hrs 20 mins       █████████████░░░░░░░░░░░░   50.12 % 
+Linux                    6 hrs 18 mins       ████████████░░░░░░░░░░░░░   49.88 % 
 ```
 
 
- Last Updated on 17/10/2026 21:57:55 UTC
+ Last Updated on 18/10/2026 22:12:41 UTC
 <!--END_SECTION:waka-->
